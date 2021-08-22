@@ -1,0 +1,267 @@
+<Remittance.Advice
+	xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/RemittanceAdvice.xsd">
+	<Header>
+		<SenderID>C002</SenderID>
+		<ReceiverID>MF1397</ReceiverID>
+		<TransactionDate>30/04/2021 12:04</TransactionDate>
+		<RecordCount>12</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+	<Claim>
+		<ID>CLD091558</ID>
+		<IDPayer>20679441-70-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH265381</ID>
+			<Start>04/09/2020 19:46</Start>
+			<Type>3</Type>
+			<Code>99212</Code>
+			<Quantity>1</Quantity>
+			<Net>44.8</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>44.36</PaymentAmount>
+			<DenialCode>TIME-001</DenialCode>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD091650</ID>
+		<IDPayer>17060293-19-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH265557-IS014088</ID>
+			<Start>05/09/2020 17:08</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1</Quantity>
+			<Net>76</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>75.25</PaymentAmount>
+			<DenialCode>TIME-001</DenialCode>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD093095</ID>
+		<IDPayer>17060293-29-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH269939-IS014088</ID>
+			<Start>19/09/2020 10:20</Start>
+			<Type>3</Type>
+			<Code>99212</Code>
+			<Quantity>1</Quantity>
+			<Net>44.8</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>44.75</PaymentAmount>
+			<DenialCode>TIME-001</DenialCode>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD094190</ID>
+		<IDPayer>17060293-52-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH273170-IS014088</ID>
+			<Start>28/09/2020 18:35</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1</Quantity>
+			<Net>76</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>76</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD095346</ID>
+		<IDPayer>20680011-22-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH276554-IS014079</ID>
+			<Start>09/10/2020 18:30</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1</Quantity>
+			<Net>113.6</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>113.6</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD095586</ID>
+		<IDPayer>20679935-34-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH277216-IS014079</ID>
+			<Start>11/10/2020 17:01</Start>
+			<Type>3</Type>
+			<Code>99212</Code>
+			<Quantity>1</Quantity>
+			<Net>44.8</Net>
+			<OrderingClinician>GD22155</OrderingClinician>
+			<Clinician>GD22155</Clinician>
+			<PaymentAmount>44.8</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD095887</ID>
+		<IDPayer>20679586-8-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH278101-IS014079</ID>
+			<Start>13/10/2020 19:14</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1</Quantity>
+			<Net>113.6</Net>
+			<OrderingClinician>GD10368</OrderingClinician>
+			<Clinician>GD10368</Clinician>
+			<PaymentAmount>113.6</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD097333</ID>
+		<IDPayer>20679687-40-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH282527-IS014079</ID>
+			<Start>26/10/2020 19:26</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1</Quantity>
+			<Net>76</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>75.52</PaymentAmount>
+			<DenialCode>TIME-001</DenialCode>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD097553</ID>
+		<IDPayer>17044181-70-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH283213-IS014079</ID>
+			<Start>28/10/2020 18:43</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1</Quantity>
+			<Net>113.6</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>113.6</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD097655</ID>
+		<IDPayer>20680011-33-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH283518-IS014079</ID>
+			<Start>29/10/2020 18:30</Start>
+			<Type>3</Type>
+			<Code>99213</Code>
+			<Quantity>1</Quantity>
+			<Net>76</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>76</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD102596</ID>
+		<IDPayer>20680400-66-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH298457-IS014079</ID>
+			<Start>16/12/2020 19:35</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1</Quantity>
+			<Net>113.6</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GD21239</Clinician>
+			<PaymentAmount>113.6</PaymentAmount>
+		</Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD103326</ID>
+		<IDPayer>47902544</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH300890-IS014079</ID>
+			<Start>23/12/2020 20:31</Start>
+			<Type>3</Type>
+			<Code>99203</Code>
+			<Quantity>1</Quantity>
+			<Net>113.6</Net>
+			<OrderingClinician>GD10368</OrderingClinician>
+			<Clinician>GD10368</Clinician>
+			<PaymentAmount>113.6</PaymentAmount>
+		</Activity>
+	</Claim>
+</Remittance.Advice>

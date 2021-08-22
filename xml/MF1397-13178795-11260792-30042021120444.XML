@@ -1,0 +1,54 @@
+<Remittance.Advice
+	xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/RemittanceAdvice.xsd">
+	<Header>
+		<SenderID>C002</SenderID>
+		<ReceiverID>MF1397</ReceiverID>
+		<TransactionDate>30/04/2021 12:04</TransactionDate>
+		<RecordCount>1</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+	<Claim>
+		<ID>CLD104446</ID>
+		<IDPayer>17051777-57-1</IDPayer>
+		<ProviderID>MF1397</ProviderID>
+		<PaymentReference>672995</PaymentReference>
+		<DateSettlement>29/04/2021 00:00</DateSettlement>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+		</Encounter>
+		<Activity>
+			<ID>A-CH304264</ID>
+			<Start>04/01/2021 15:49</Start>
+			<Type>3</Type>
+			<Code>97140</Code>
+			<Quantity>1</Quantity>
+			<Net>54</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GT20475</Clinician>
+			<PaymentAmount>54</PaymentAmount>
+		</Activity>
+		<Activity>
+			<ID>A-CH304265</ID>
+			<Start>04/01/2021 15:49</Start>
+			<Type>3</Type>
+			<Code>97110</Code>
+			<Quantity>1</Quantity>
+			<Net>58</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GT20475</Clinician>
+			<PaymentAmount>58</PaymentAmount>
+		</Activity>
+		<Activity>
+			<ID>A-CH304266</ID>
+			<Start>04/01/2021 15:49</Start>
+			<Type>3</Type>
+			<Code>97032</Code>
+			<Quantity>1</Quantity>
+			<Net>34</Net>
+			<OrderingClinician>GD21239</OrderingClinician>
+			<Clinician>GT20475</Clinician>
+			<PaymentAmount>34</PaymentAmount>
+		</Activity>
+	</Claim>
+</Remittance.Advice>

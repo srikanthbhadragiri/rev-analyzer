@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Claim.Submission xmlns:tns="http://www.haad.ae/DataDictionary/CommonTypes"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="http://www.haad.ae/DataDictionary/CommonTypes/ClaimSubmission.xsd">
+
+ <!-- Header: Submission identification information -->
+	<Header>
+		<SenderID>MF1397</SenderID>
+		<ReceiverID>A001</ReceiverID>
+		<TransactionDate>31/03/2021 10:20</TransactionDate>
+		<RecordCount>92</RecordCount>
+		<DispositionFlag>PRODUCTION</DispositionFlag>
+	</Header>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>CLD113375</ID>
+		<IDPayer></IDPayer>
+		<MemberID>07404956</MemberID>
+		<PayerID>A001</PayerID>
+		<ProviderID>MF1397</ProviderID>
+		<EmiratesIDNumber>784-1997-5798085-1</EmiratesIDNumber>
+		<Gross>169</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>169</Net>
+		<VAT>0</VAT>
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<Type>1</Type>
+			<PatientID>OPLUS025436</PatientID>
+			
+			<Start>28/03/2021 09:28</Start>
+			<End>28/03/2021 13:41</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			
+			
+		</Encounter>
+
+
+		<!-- Diagnosis information -->
+				<Diagnosis>
+					<Type>Principal</Type>
+					<Code>M51.16</Code>
+					
+				</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH332200</ID>
+				<Start>28/03/2021 13:41</Start>
+
+				<Type>3</Type>
+				<Code>97032</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>34</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT19251</Clinician>
+			<PriorAuthorizationID>80958594</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH332201</ID>
+				<Start>28/03/2021 13:41</Start>
+
+				<Type>3</Type>
+				<Code>97035</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>23</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT19251</Clinician>
+			<PriorAuthorizationID>80958594</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH332202</ID>
+				<Start>28/03/2021 13:41</Start>
+
+				<Type>3</Type>
+				<Code>97110</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>58</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT19251</Clinician>
+			<PriorAuthorizationID>80958594</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH332203</ID>
+				<Start>28/03/2021 13:41</Start>
+
+				<Type>3</Type>
+				<Code>97140</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>54</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT19251</Clinician>
+			<PriorAuthorizationID>80958594</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>CLD113459</ID>
+		<IDPayer></IDPayer>
+		<MemberID>10587189</MemberID>
+		<PayerID>A001</PayerID>
+		<ProviderID>MF1397</ProviderID>
+		<EmiratesIDNumber>784-2020-6357921-7</EmiratesIDNumber>
+		<Gross>56</Gross>
+		<PatientShare>10</PatientShare>
+		<Net>46</Net>
+		<VAT>0</VAT>
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<Type>1</Type>
+			<PatientID>OPLUS025141</PatientID>
+			
+			<Start>28/03/2021 18:19</Start>
+			<End>28/03/2021 18:20</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			
+			
+		</Encounter>
+
+
+		<!-- Diagnosis information -->
+				<Diagnosis>
+					<Type>Principal</Type>
+					<Code>N47.1</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>N47.5</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>Z98.89</Code>
+					
+				</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH332318</ID>
+				<Start>28/03/2021 18:20</Start>
+
+				<Type>3</Type>
+				<Code>99212</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>46</Net>
+				<OrderingClinician>GD9876</OrderingClinician>
+				<Clinician>GD9876</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>CLD113492</ID>
+		<IDPayer></IDPayer>
+		<MemberID>02846951</MemberID>
+		<PayerID>A001</PayerID>
+		<ProviderID>MF1397</ProviderID>
+		<EmiratesIDNumber>784-1973-3280847-2</EmiratesIDNumber>
+		<Gross>169</Gross>
+		<PatientShare>0</PatientShare>
+		<Net>169</Net>
+		<VAT>0</VAT>
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<Type>1</Type>
+			<PatientID>OPLUS008485</PatientID>
+			
+			<Start>28/03/2021 20:29</Start>
+			<End>28/03/2021 20:29</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			
+			
+		</Encounter>
+
+
+		<!-- Diagnosis information -->
+				<Diagnosis>
+					<Type>Principal</Type>
+					<Code>M75.102</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>Z47.89</Code>
+					
+				</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH332431</ID>
+				<Start>28/03/2021 20:29</Start>
+
+				<Type>3</Type>
+				<Code>97032</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>34</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT16351</Clinician>
+			<PriorAuthorizationID>80813668</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH332432</ID>
+				<Start>28/03/2021 20:29</Start>
+
+				<Type>3</Type>
+				<Code>97035</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>23</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT16351</Clinician>
+			<PriorAuthorizationID>80813668</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH332433</ID>
+				<Start>28/03/2021 20:29</Start>
+
+				<Type>3</Type>
+				<Code>97110</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>58</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT16351</Clinician>
+			<PriorAuthorizationID>80813668</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH332434</ID>
+				<Start>28/03/2021 20:29</Start>
+
+				<Type>3</Type>
+				<Code>97140</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>54</Net>
+				<OrderingClinician>GD10368</OrderingClinician>
+				<Clinician>GT16351</Clinician>
+			<PriorAuthorizationID>80813668</PriorAuthorizationID>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>CLD113364</ID>
+		<IDPayer></IDPayer>
+		<MemberID>07493665</MemberID>
+		<PayerID>A001</PayerID>
+		<ProviderID>MF1397</ProviderID>
+		<EmiratesIDNumber>784-1988-8429614-0</EmiratesIDNumber>
+		<Gross>98</Gross>
+		<PatientShare>20</PatientShare>
+		<Net>78</Net>
+		<VAT>0</VAT>
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<Type>1</Type>
+			<PatientID>OPLUS017571</PatientID>
+			
+			<Start>28/03/2021 09:09</Start>
+			<End>28/03/2021 09:10</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			
+			
+		</Encounter>
+
+
+		<!-- Diagnosis information -->
+				<Diagnosis>
+					<Type>Principal</Type>
+					<Code>M54.5</Code>
+					
+				</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH332022</ID>
+				<Start>28/03/2021 09:10</Start>
+
+				<Type>3</Type>
+				<Code>99202</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>78</Net>
+				<OrderingClinician>GD36312</OrderingClinician>
+				<Clinician>GD36312</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>CLD113435</ID>
+		<IDPayer></IDPayer>
+		<MemberID>02363654</MemberID>
+		<PayerID>A001</PayerID>
+		<ProviderID>MF1397</ProviderID>
+		<EmiratesIDNumber>784-1967-2916070-3</EmiratesIDNumber>
+		<Gross>155</Gross>
+		<PatientShare>30</PatientShare>
+		<Net>125</Net>
+		<VAT>0</VAT>
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<Type>1</Type>
+			<PatientID>OPLUS020072</PatientID>
+			
+			<Start>28/03/2021 16:50</Start>
+			<End>28/03/2021 17:05</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			
+			
+		</Encounter>
+
+
+		<!-- Diagnosis information -->
+				<Diagnosis>
+					<Type>ReasonForVisit</Type>
+					<Code>E78.5</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>ReasonForVisit</Type>
+					<Code>R53.83</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>M25.522</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Principal</Type>
+					<Code>M25.561</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>M25.521</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>M25.511</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>E56.9</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>R35.8</Code>
+					
+				</Diagnosis>
+				<Diagnosis>
+					<Type>Secondary</Type>
+					<Code>M25.562</Code>
+					
+				</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH332236</ID>
+				<Start>28/03/2021 16:59</Start>
+
+				<Type>3</Type>
+				<Code>99212</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>36</Net>
+				<OrderingClinician>GD36312</OrderingClinician>
+				<Clinician>GD36312</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+			<Activity>
+				<ID>A-CH333071</ID>
+				<Start>28/03/2021 17:05</Start>
+
+				<Type>3</Type>
+				<Code>82947</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>4</Net>
+				<OrderingClinician>GD36312</OrderingClinician>
+				<Clinician>D666</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+								<Observation>
+									<Type>LOINC</Type>
+									<Code>14749-6</Code>
+									<Value>5.68</Value>
+									<ValueType>mmol/L</ValueType>
+								</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH333072</ID>
+				<Start>28/03/2021 17:05</Start>
+
+				<Type>3</Type>
+				<Code>82565</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>18</Net>
+				<OrderingClinician>GD36312</OrderingClinician>
+				<Clinician>D666</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+								<Observation>
+									<Type>LOINC</Type>
+									<Code>2160-0</Code>
+									<Value>0.92</Value>
+									<ValueType>mg/dL</ValueType>
+								</Observation>
+			</Activity>
+			<Activity>
+				<ID>A-CH333073</ID>
+				<Start>28/03/2021 17:05</Start>
+
+				<Type>3</Type>
+				<Code>80061</Code>
+				<Quantity>1.00</Quantity>
+
+				<Net>67</Net>
+				<OrderingClinician>GD36312</OrderingClinician>
+				<Clinician>D666</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+								<Observation>
+									<Type>LOINC</Type>
+									<Code>2571-8</Code>
+									<Value>79.30</Value>
+									<ValueType>mg/dL</ValueType>
+								</Observation>
+								<Observation>
+									<Type>LOINC</Type>
+									<Code>2085-9</Code>
+									<Value>44.70</Value>
+									<ValueType>mg/dL</ValueType>
+								</Observation>
+								<Observation>
+									<Type>LOINC</Type>
+									<Code>2093-3</Code>
+									<Value>137.70</Value>
+									<ValueType>mg/dL</ValueType>
+								</Observation>
+			</Activity>
+
+	</Claim>
+		 
+	<Claim>
+		<!-- Claim identification information -->
+		<ID>CLD113390</ID>
+		<IDPayer></IDPayer>
+		<MemberID>00973589</MemberID>
+		<PayerID>A001</PayerID>
+		<ProviderID>MF1397</ProviderID>
+		<EmiratesIDNumber>784-1968-8269320-1</EmiratesIDNumber>
+		<Gross>56</Gross>
+		<PatientShare>10</PatientShare>
+		<Net>46</Net>
+		<VAT>0</VAT>
+		<!-- Encounter information -->
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<Type>1</Type>
+			<PatientID>OPLUS011501</PatientID>
+			
+			<Start>28/03/2021 09:53</Start>
+			<End>28/03/2021 09:53</End>
+			<StartType>1</StartType>
+			<EndType>1</EndType>
+			
+			
+		</Encounter>
+
+
+		<!-- Diagnosis information -->
+				<Diagnosis>
+					<Type>Principal</Type>
+					<Code>M50.12</Code>
+					
+				</Diagnosis>
+
+		<!-- Activities information -->
+			<Activity>
+				<ID>A-CH332051</ID>
+				<Start>28/03/2021 09:53</Start>
+
+				<Type>3</Type>
+				<Code>99212</Code>
+					<Quantity>1.00</Quantity>
+
+				<Net>46</Net>
+				<OrderingClinician>GD8983</OrderingClinician>
+				<Clinician>GD8983</Clinician>
+			
+				<VAT>0</VAT>
+				<VATPercent>0</VATPercent>
+					<!-- Observations information -->
+			</Activity>
+
+	</Claim>
+</Claim.Submission>

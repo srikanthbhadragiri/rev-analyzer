@@ -1,0 +1,50 @@
+<data>
+    <Header>
+		<SenderID>MF1397</SenderID>
+		<ReceiverID>A001</ReceiverID>
+	</Header>
+	<Claim>
+		<ID>CLD113375</ID>
+		<MemberID>07404956</MemberID>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<PatientID>OPLUS025436</PatientID>
+		</Encounter>
+        <Diagnosis>
+            <Type>Principal</Type>
+            <Code>N47.1</Code>
+        </Diagnosis>
+        <Activity>
+            <ID>A-CH332200</ID>
+            <Start>28/03/2021 13:41</Start>
+        </Activity>
+        <Activity>
+            <ID>A-CH332201</ID>
+            <Start>28/03/2021 13:41</Start>
+        </Activity>
+	</Claim>
+	<Claim>
+		<ID>CLD113459</ID>
+		<MemberID>10587189</MemberID>
+		<Encounter>
+			<FacilityID>MF1397</FacilityID>
+			<PatientID>OPLUS025141</PatientID>
+		</Encounter>
+        <Diagnosis>
+            <Type>Principal</Type>
+            <Code>N47.1</Code>
+        </Diagnosis>
+        <Diagnosis>
+            <Type>Secondary</Type>
+            <Code>N47.5</Code>
+        </Diagnosis>
+        <Diagnosis>
+            <Type>Secondary</Type>
+            <Code>Z98.89</Code>
+        </Diagnosis>
+        <Activity>
+            <ID>A-CH332318</ID>
+            <Start>28/03/2021 18:20</Start>
+        </Activity>
+	</Claim>
+</data>
